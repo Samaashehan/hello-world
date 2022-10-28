@@ -1,3 +1,3 @@
 # hello-world
 "My first repository on GitHub."
-I LOVE: COFFEE, HAMBURGER , MOVIE. 
+I LOVE: COFFEE, HAMBURGER.
